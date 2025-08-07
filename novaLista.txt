@@ -3,3 +3,8 @@
 3- Channel
 4- Ysl
 5- Dior
+6- Nike
+7- Adidas 
+8- Lacoste 
+9- Versace
+10- Miu Miu
