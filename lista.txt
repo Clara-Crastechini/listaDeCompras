@@ -5,4 +5,8 @@ ameixa
 framboesa
 morango
 melancia 
-
+banana 
+carambola 
+picanha
+peito de frango 
+leite condensado
