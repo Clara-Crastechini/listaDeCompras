@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 amora
 maça 
 ameixa
 framboesa
 morango
-=======
 melancia 
->>>>>>> 2c167c3b8727af35d18d5c632cefcc514e581c57
+
